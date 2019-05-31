@@ -1409,8 +1409,7 @@
 	}
 
 	body {
-		background-color: #000;
-		background-image: url("../../images/bg.jpg");
+		background-color: #1A1A1A;
 		background-size: cover;
 		background-position: top center;
 	}
